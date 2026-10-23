@@ -69,9 +69,3 @@ Build a comprehensive admin dashboard for your e-commerce platform, including UI
 ### Module 6: Front End Development
 
 Develop the front end of your e-commerce platform, focusing on product display, user interactions, review management, state management, and seamless shopping experience integration with Stripe.
-
-
-
-
-
-
